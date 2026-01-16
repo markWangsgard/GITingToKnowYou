@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mark.wangsgard\\Code\\Code.csproj",
+      "projectUniqueName": "C:\\Users\\mark.wangsgard\\Code\\GITingToKnowYou\\Code.csproj",
       "projectName": "Code",
-      "projectPath": "C:\\Users\\mark.wangsgard\\Code\\Code.csproj",
+      "projectPath": "C:\\Users\\mark.wangsgard\\Code\\GITingToKnowYou\\Code.csproj",
       "packagesPath": "C:\\Users\\mark.wangsgard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mark.wangsgard\\Code\\obj\\",
+      "outputPath": "C:\\Users\\mark.wangsgard\\Code\\GITingToKnowYou\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
